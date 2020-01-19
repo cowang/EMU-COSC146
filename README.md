@@ -1,3 +1,6 @@
-# EMU-COSC146
+# EMU COSC 146 Applied Programming and Scripting
+## In Python
 
-This repository supports the EMU COSC 146 23330 project.
+Here are some web pages that you may need to refer to:
+
+
