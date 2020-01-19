@@ -1,2 +1,3 @@
 # EMU-COSC146
-Some notes and links about material we might need frequently.
+
+This repository supports the EMU COSC 146 23330 project.
