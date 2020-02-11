@@ -14,6 +14,9 @@ Here are some web pages that you may need to refer to:
 - Jupyter
   - Examples <https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#social-data>
     (The whole page is interesting, not just the social-data Jupyter examples)
+- Bloom's Taxonomy
+  - Bloom's Taxonomy of Learning Domains <http://www.nwlink.com/~donclark/hrd/bloom.html>
+  - Question Starters <https://education.illinoisstate.edu/downloads/casei/5-02-Revised%20Blooms.pdf>
 - Dummies Cheat Sheets
   - <https://www.dummies.com/programming/python/beginning-programming-python-dummies-cheat-sheet/>
   - <https://www.dummies.com/programming/python/python-all-in-one-for-dummies-cheat-sheet/>
