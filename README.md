@@ -26,6 +26,7 @@ Here are some web pages that you may need to refer to:
   - <https://github.com/awesomedata/awesome-public-datasets>
   - <https://www.kaggle.com/datasets>
   - <https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security>
+  - Air Now API <https://docs.airnowapi.org/>
   - <https://www.ncdc.noaa.gov/cdo-web/datasets>
   - Jason resources <https://github.com/burningtree/awesome-json>
   - Jupyter examples <https://github.com/josephcslater/JupyterExamples/blob/master/SymPy_Multiple_Eqn_solution.ipynb>
