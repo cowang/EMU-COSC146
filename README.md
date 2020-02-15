@@ -22,6 +22,8 @@ Here are some web pages that you may need to refer to:
   - <https://www.dummies.com/programming/python/python-all-in-one-for-dummies-cheat-sheet/>
   - <https://www.dummies.com/programming/coding-for-dummies-cheat-sheet/>
 - Data for projects
+  - Wikipedia list of datasets for machine-learning 
+      <https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research#Games>
   - <https://github.com/jdorfman/awesome-json-datasets>
   - <https://github.com/awesomedata/awesome-public-datasets>
   - <https://www.kaggle.com/datasets>
