@@ -32,4 +32,16 @@ Here are some web pages that you may need to refer to:
   - <https://www.ncdc.noaa.gov/cdo-web/datasets>
   - Jason resources <https://github.com/burningtree/awesome-json>
   - Jupyter examples <https://github.com/josephcslater/JupyterExamples/blob/master/SymPy_Multiple_Eqn_solution.ipynb>
+- Datasets for student projects
+  - George Cowan (This is an example of the kind of information that would be appropriate. You can ask for this dataset 
+    if you like, but you must also include at least one additional dataset.)
+    - Example WHO cumulative Corona Virus cases by date 
+      - <https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset>
+      - Download the datasets by clicking on the Download button under the header image. I have only looked at one of the files: 
+        covid_19_data.csv. It's column descriptions can be found be expanding the Description section that is a little below 
+        the download button. The file seems to be updated almost daily.
+      - I think this would be an excellent dataset to explore because it is such an important topic, even though 
+        it is not related to my major. Categorical fields would be Country/Region, and perhaps Province/State. 
+        There are several numerical fields. Graphing the growth of cases over time for a selected state like 
+        Michigan would be possible, but the date field looks different than what we have studied. I may need some help there.
 
