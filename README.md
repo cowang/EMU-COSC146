@@ -44,10 +44,14 @@ Here are some web pages that you may need to refer to:
         it is not related to my major. Categorical fields would be Country/Region, and perhaps Province/State. 
         There are several numerical fields. Graphing the growth of cases over time for a selected state like 
         Michigan would be possible, but the date field looks different than what we have studied. I may need some help there.
-   -**Cody Sharp**
+   - **Cody Sharp**
      - Yu-Gi-Oh! Trading Cards Dataset
-      -https://www.kaggle.com/tathor/yugioh-trading-cards-dataset/data
-      - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or              monster attributes given the over 6,000 cards included in this data set.
+        - https://www.kaggle.com/tathor/yugioh-trading-cards-dataset/data
+        - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or               monster attributes given the over 6,000 cards included in this data set.
+     - Video Game Sales Dataset
+        - https://www.kaggle.com/gregorut/videogamesales
+        - I think this would be an interesting dataset since it details the sales in different regions of the world and can illustrate
+          which games are most popular in these regions.
   - Brendan Carr
     - Summer Olympic Medals (1976 – 2008)
       - APPROVED PROJECT DATASET
@@ -60,5 +64,3 @@ Here are some web pages that you may need to refer to:
       - Click the download button underneath the header image to download a zip folder containing the datasets. I was going to focus on         the 2019.csv dataset. 
       - The categorical fields are Overall Rank, Country or Region, Score, GDP per Capita, Social Support, Healthy Life Expectancy,             Freedom to make life choices, Generosity, and Perceptions of Corruption. Each category from GDP per Capita to Perceptions of             Corruption has a number that contributes to each country’s happiness score which ranges from 0 – 10.
       - There are no numerical fields in this dataset.
-
-  
