@@ -50,6 +50,7 @@ Here are some web pages that you may need to refer to:
       - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or              monster attributes given the over 6,000 cards included in this data set.
   - Brendan Carr
     - Summer Olympic Medals (1976 – 2008)
+      - APPROVED PROJECT DATASET
       - <https://www.kaggle.com/divyansh22/summer-olympics-medals>
       - Click the download button underneath the header image to download a zip folder contain the dataset. The dataset is named Summer-         Olympic-medals-1976-to-2008.csv. 
       - The categorical fields are City, Year, Sport, Discipline, Event, Athlete, Gender, Country_Code, Country, Event_Gender, and               Medal. I choose this dataset as my first choice even though it is not related to my major because it is interesting to see the           data for all the medals in the Summer Olympics from 1976 to 2008.
