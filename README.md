@@ -74,3 +74,12 @@ Here are some web pages that you may need to refer to:
      - Air Pollution of PM2.5 in Korea by ug/m3 (2015 - 2019, but more specifically 2019)
        - <http://kosis.kr/eng/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ETITLE&parmTabId=M_01_01#SelectStatsBoxDiv>
        - I know overall this is a weird topic, but while I spent time in Korea last semester, it was only then that I realized how bad            the air quality can get on a given season or month, so I thought it would be interesting to compare overall. 
+       
+  - Cody Makinson
+    - I want to analyze NHL data from the birth of the NHL original 6 hockey teams.
+    - I really enjoyed pokemon growing up, so I would use the data we previously used in an assignment. 
+      I want to see if there is a type bias, among other statitical analysis.
+    - Weather data. It is cyclical and a different kind of data than the other two.
+      https://www.justsportsstats.com/hockeyindex.php?league=NHL *I just need to download in excel* 
+      https://pokemondb.net/pokedex/all * I would have to play around a little to make into .csv file*
+      PRECIP_HLY_sample_csv
