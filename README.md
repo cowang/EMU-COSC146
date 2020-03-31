@@ -44,6 +44,13 @@ Here are some web pages that you may need to refer to:
         it is not related to my major. Categorical fields would be Country/Region, and perhaps Province/State. 
         There are several numerical fields. Graphing the growth of cases over time for a selected state like 
         Michigan would be possible, but the date field looks different than what we have studied. I may need some help there.
+   
+  - Hunter Vayda-Ramirez: I would like to use 
+    - <https://github.com/awesomedata/awesome-public-datasets> by downloading the titantic.csv.zip file.
+      - I thought this dataset was very cool! It is categorical and numerical data. The data appears to be information from the Titantic about its passengers. If it's true, it's pretty darn cool! This also not only relates to my statistics because of it being a dataset. But, it relates to my professional writing major. This is a great example of a multimodal design. It used a form of media to convey information to an audience! 
+    - <https://github.com/GeostatsGuy/GeoDataSets/blob/master/dataset_101b.csv> by clicking on the raw button and click Control-A to select text. Paste into a text editor. (Thank you George!)   
+      - I would like to try to do the GeostatsGuy dataset, but need help trying to make sure I am able to get the information correctly. Since, I didn't see a file I could download. I am sure I could figure it out, but just want to have clarificaiton. There are other datasets available for these studies and would find them equally as fun. This dataset has numerical fields and it appears to be earthquake data? It was intended for a geostats class. So that would be my guess! It relates to my major because I am a Stats major. Plus it looks fun! 
+
    - **Cody Sharp**
      - Yu-Gi-Oh! Trading Cards Dataset
         - https://www.kaggle.com/tathor/yugioh-trading-cards-dataset/data
@@ -96,4 +103,3 @@ Here are some web pages that you may need to refer to:
       https://www.justsportsstats.com/hockeyindex.php?league=NHL *I just need to download in excel* 
       https://pokemondb.net/pokedex/all * I would have to play around a little to make into .csv file*
       PRECIP_HLY_sample_csv
-
