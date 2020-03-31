@@ -97,9 +97,12 @@ Here are some web pages that you may need to refer to:
        
   - Cody Makinson
     - I want to analyze NHL data from the birth of the NHL original 6 hockey teams.
+        https://www.justsportsstats.com/hockeyindex.php?league=NHL *I just need to download in excel* 
     - I really enjoyed pokemon growing up, so I would use the data we previously used in an assignment. 
       I want to see if there is a type bias, among other statitical analysis.
+         https://pokemondb.net/pokedex/all * I would have to play around a little to make into .csv file*
     - Weather data. It is cyclical and a different kind of data than the other two.
-      https://www.justsportsstats.com/hockeyindex.php?league=NHL *I just need to download in excel* 
-      https://pokemondb.net/pokedex/all * I would have to play around a little to make into .csv file*
-      PRECIP_HLY_sample_csv
+          PRECIP_HLY_sample_csv
+   -My first choice is analyzing the hockey data. I have all the data in an excel file. I will put all the raw data in one sheet and convert to .csv file.        
+     
+    
