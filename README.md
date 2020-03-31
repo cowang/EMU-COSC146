@@ -64,3 +64,13 @@ Here are some web pages that you may need to refer to:
       - Click the download button underneath the header image to download a zip folder containing the datasets. I was going to focus on         the 2019.csv dataset. 
       - The categorical fields are Overall Rank, Country or Region, Score, GDP per Capita, Social Support, Healthy Life Expectancy,             Freedom to make life choices, Generosity, and Perceptions of Corruption. Each category from GDP per Capita to Perceptions of             Corruption has a number that contributes to each country’s happiness score which ranges from 0 – 10.
       - There are no numerical fields in this dataset.
+      
+      
+  - Alexis Gipson 
+     - Novel Coronavirus (Deaths or Recovered) (2019-2020 ((ONGOING)) )
+       - <https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series>
+       - Personally, this would be my first choice, as this is a very important focus in our life today, and having work to do on it              would be both interesting to do and to teach myself more about statistically, in a sense. 
+      
+     - Air Pollution of PM2.5 in Korea by ug/m3 (2015 - 2019, but more specifically 2019)
+       - <http://kosis.kr/eng/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ETITLE&parmTabId=M_01_01#SelectStatsBoxDiv>
+       - I know overall this is a weird topic, but while I spent time in Korea last semester, it was only then that I realized how bad            the air quality can get on a given season or month, so I thought it would be interesting to compare overall. 
